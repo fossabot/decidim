@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falecslupu%2Fdecidim.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falecslupu%2Fdecidim?ref=badge_shield)
+
 :uri-blog: https://decidim.org/blog
 :uri-chat: http://chat.decidim.org
 :uri-contributing: xref:CONTRIBUTING.adoc
@@ -202,3 +204,7 @@ image::https://opencollective.com/decidim/tiers/partner.svg?avatarHeight=36&widt
 | How to contribute to the Decidim project and code base.
 
 |===
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falecslupu%2Fdecidim.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falecslupu%2Fdecidim?ref=badge_large)
